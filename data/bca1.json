@@ -2,56 +2,56 @@
     "monday": 
     {
         "h1":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Lulu Farsana",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"English - Functional Grammar",
+            "shortname":"ENG",
+            "teacher":"Dr. Umar Farooq M C",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h2":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Haneesh K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Computer Fundamentals And HTML",
+            "shortname":"CFH",
+            "teacher":"Mr. Abdul Samad C",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Meet",
+            "platform":"Classroom",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"Mathematical Foundation...",
-            "shortname":"MFCA",
-            "teacher":"Faseela",
+            "fullname":"English - Litmosphere",
+            "shortname":"ENG",
+            "teacher":"Dr. Najda A",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgzNDY0MjMx?cjc=ixuh2br"
+            "link":"#"
         },
         "h5":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
-            "teacher":" ",
+            "fullname":"Discrete Mathematics",
+            "shortname":"DM",
+            "teacher":"Ms. Sneha N P",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTc5NTcyNjc3?cjc=pzzx3em"
+            "link":"#"
         }
     },
     "tuesday": 
     {
         "h1":{
-            "fullname":"Mathematical Foundation...",
-            "shortname":"MFCA",
-            "teacher":"Faseela",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"English - Functional Grammar",
+            "shortname":"ENG",
+            "teacher":"Dr. Umar Farooq M C",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h2":{
-            "fullname":"English - Transactions",
-            "shortname":"ENG",
-            "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Mathematical Foundation .....",
+            "shortname":"MFCA",
+            "teacher":"Ms. Lulu Farsana C O",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
@@ -61,54 +61,54 @@
             "link":"#lang"
         },
         "h4":{
-            "fullname":"Computer Fundamentals....",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
+            "fullname":"English - Litmosphere",
+            "shortname":"ENG",
+            "teacher":"Dr. Najda A",
             "platform":"Classroom",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "link":"#"
         },
         "h5":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
-            "teacher":" ",
+            "fullname":"Discrete Mathematics",
+            "shortname":"DM",
+            "teacher":"Ms. Sneha N P",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTY5Mzc5Mzg2?cjc=3pgxlk7"
+            "link":"#"
         }
     },
     "wednessday": 
     {
         "h1":{
             "fullname":"Computer Fundamentals....",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "shortname":"MFCA",
+            "teacher":"Ms. Faseela V",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h2":{
             "fullname":"Discrete Mathematics",
             "shortname":"DM",
-            "teacher":"Lulu Farsana",
+            "teacher":"Mr. Sneha N P",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgxNzIwNDM5?cjc=ephtqte"
+            "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Meet",
+            "platform":"Classroom",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"English - Ways with Words",
+            "fullname":"English - Functional Grammar",
             "shortname":"ENG",
-            "teacher":" ",
+            "teacher":"Dr. Umar Farooq M C",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTc5NTcyNjc3?cjc=pzzx3em"
+            "link":"#"
         },
         "h5":{
-            "fullname":"English - Transactions",
+            "fullname":"English - Litmosphere",
             "shortname":"ENG",
-            "teacher":" ",
+            "teacher":"Dr. Najda A",
             "platform":"Classroom",
             "link":"https://classroom.google.com/c/MjMwMTgyNzYxODk2?cjc=iyxm4ld"
         }
@@ -116,25 +116,25 @@
     "thursday": 
     {
         "h1":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Lulu Farsana",
+            "fullname":"Mathematical Foundation .......",
+            "shortname":"MFCA",
+            "teacher":"Mr. Faseela V",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgxNzIwNDM5?cjc=ephtqte"
+            "link":"#"
         },
         "h2":{
-            "fullname":"Mathematical Foundation...",
-            "shortname":"MFCA",
-            "teacher":"Faseela",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Computer",
+            "shortname":"LAB",
+            "teacher":"Mr. Abdul Samad C",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h3":{
-            "fullname":"English - Ways with Words",
+            "fullname":"English - Litmosphere",
             "shortname":"ENG",
-            "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "teacher":"Dr. Najda K P",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h4":{
             "fullname":"Second Language",
@@ -144,49 +144,49 @@
             "link":"#lang"
         },
         "h5":{
-            "fullname":"English - Transactions",
+            "fullname":"English - Functional Grammar",
             "shortname":"ENG",
-            "teacher":" ",
+            "teacher":"Dr. Umar Farooq M C",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNzYxODk2?cjc=iyxm4ld"
+            "link":"#"
         }
     },
     "friday": 
     {
         "h1":{
-            "fullname":"English - Transactions",
-            "shortname":"ENG",
-            "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Mathematical Foundation .......",
+            "shortname":"MFCA",
+            "teacher":"Mr. Faseela V",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h2":{
-            "fullname":"Mathematical Foundation...",
-            "shortname":"MFCA",
-            "teacher":"Faseela",
+            "fullname":"Computer",
+            "shortname":"LAB",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgzNDY0MjMx?cjc=ixuh2br"
+            "link":"#"
         },
         "h3":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
-            "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Computer",
+            "shortname":"LAB",
+            "teacher":"Mr. Abdul Samad C",
+            "platform":"Classroom",
+            "link":"#"
         },
         "h4":{
-            "fullname":"Computer Fundamentals....",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
+            "fullname":"Second Language",
+            "shortname":"LANG",
+            "teacher":"Malayalam , Arabic , Hindi",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTY5Mzc5Mzg2?cjc=3pgxlk7"
+            "link":"#lang"
         },
         "h5":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Lulu Farsana",
+            "fullname":"English - Functional Grammar",
+            "shortname":"ENG",
+            "teacher":"Ms. Nuria",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgxNzIwNDM5?cjc=ephtqte"
+            "link":"#"
         }
     },
     "lang":{
