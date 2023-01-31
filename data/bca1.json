@@ -5,35 +5,35 @@
             "fullname":"English - Functional Grammar",
             "shortname":"ENG",
             "teacher":"Dr. Umar Farooq M C",
-            "platform":"Classroom",
+            "platform":"CLASS 902",
             "link":"#"
         },
         "h2":{
             "fullname":"Computer Fundamentals And HTML",
             "shortname":"CFH",
             "teacher":"Mr. Abdul Samad C",
-            "platform":"Classroom",
+            "platform":"LAB 907",
             "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Classroom",
+            "platform":"CLASS 908",
             "link":"#lang"
         },
         "h4":{
             "fullname":"English - Litmosphere",
             "shortname":"ENG",
             "teacher":"Dr. Najda A",
-            "platform":"Classroom",
+            "platform":"CLASS 909",
             "link":"#"
         },
         "h5":{
             "fullname":"Discrete Mathematics",
             "shortname":"DM",
             "teacher":"Ms. Sneha N P",
-            "platform":"Classroom",
+            "platform":"CLASS 910",
             "link":"#"
         }
     },

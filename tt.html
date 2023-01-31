@@ -203,16 +203,10 @@
 						<p class="subject" id="malayalam" style="padding-top: 12px;">Malayalam
 						</p>
 					</div>
-					<div class="col-xs-4"
-						style="background-color: #8b93dd;padding-top: 18px;height: 70px;">
-						<a href="https://classroom.google.com/c/MjMwMTgxOTQzMjQ3?cjc=7wr5l3u"><button
-								class="btn linkbtn" id="malayalamc-link">GC</button></a>
-					</div>
 					<div class="col-xs-4 card-right" id="lcardright1"
 						style="background-color: #8b93dd;">
-						<a href="https://meet.google.com/fdo-hntq-zcv"><button
-								class="btn linkbtn"
-								id="malayalam-link">Meet</button></a>
+						<a href="#"><button class="btn linkbtn"
+								id="malayalam-link">902</button></a>
 					</div>
 				</div>
 
@@ -221,15 +215,10 @@
 						style="background-color: #8b93dd;">
 						<p class="subject" id="hindi" style="padding-top: 12px;">Hindi</p>
 					</div>
-					<div class="col-xs-4"
-						style="background-color: #8b93dd;padding-top: 18px;height: 70px;">
-						<a href="https://classroom.google.com/c/MjA3MDU0ODc4MTc4?cjc=sfae5l5"><button
-								class="btn linkbtn" id="hindic-link">GC</button></a>
-					</div>
 					<div class="col-xs-4 card-right" id="lcardright2"
 						style="background-color: #8b93dd;">
-						<a href="https://meet.google.com/gnw-byjd-vgy"><button
-								class="btn linkbtn" id="hindim-link">Meet</button></a>
+						<a href="#"><button class="btn linkbtn"
+								id="hindim-link">910</button></a>
 					</div>
 				</div>
 
@@ -238,15 +227,10 @@
 						style="background-color: #8b93dd;">
 						<p class="subject" id="arabic" style="padding-top: 12px;">Arabic</p>
 					</div>
-					<div class="col-xs-4"
-						style="background-color: #8b93dd;padding-top: 18px;height: 70px;">
-						<a href="https://classroom.google.com/c/MjMwMTgwODk3OTEw?cjc=stibpgt"><button
-								class="btn linkbtn" id="arabicc-link">GC</button></a>
-					</div>
 					<div class="col-xs-4  card-right" id="lcardright3"
 						style="background-color: #8b93dd;">
-						<a href="https://meet.google.com/vzs-yrzd-yjd"><button
-								class="btn linkbtn" id="arabicm-link">Meet</button></a>
+						<a href="#"><button class="btn linkbtn"
+								id="arabicm-link">902</button></a>
 					</div>
 				</div>
 			</div>
@@ -323,21 +307,12 @@
 							document.getElementById('todaytech5').innerText = data.monday.h5.teacher;
 							document.getElementById('todayLink5').setAttribute("href", data.monday.h5.link);
 
-							if (data.monday.h1.platform == '906') {
-								document.getElementById('b1').innerText = '906';
-							}
-							if (data.monday.h2.platform == '907') {
-								document.getElementById('b2').innerText = '907';
-							}
-							if (data.monday.h3.platform == '908') {
-								document.getElementById('b3').innerText = '908';
-							}
-							if (data.monday.h4.platform == '909') {
-								document.getElementById('b4').innerText = '909';
-							}
-							if (data.monday.h5.platform == '910') {
-								document.getElementById('b5').innerText = '910';
-							}
+							document.getElementById('b1').innerText = data.monday.h1.platform
+							document.getElementById('b2').innerText = data.monday.h2.platform
+							document.getElementById('b3').innerText = data.monday.h3.platform
+							document.getElementById('b4').innerText = data.monday.h4.platform
+							document.getElementById('b5').innerText = data.monday.h5.platform
+
 							break;
 						case 2: document.getElementById('todaySub1').innerText = data.tuesday.h1.fullname;
 							document.getElementById('todaytech1').innerText = data.tuesday.h1.teacher;
@@ -354,21 +329,13 @@
 							document.getElementById('todaySub5').innerText = data.tuesday.h5.fullname;
 							document.getElementById('todaytech5').innerText = data.tuesday.h5.teacher;
 							document.getElementById('todayLink5').setAttribute("href", data.tuesday.h5.link);
-							if (data.tuesday.h1.platform == 'Classroom') {
-								document.getElementById('b1').innerText = 'GC';
-							}
-							if (data.tuesday.h2.platform == 'Classroom') {
-								document.getElementById('b2').innerText = 'GC';
-							}
-							if (data.tuesday.h3.platform == 'Classroom') {
-								document.getElementById('b3').innerText = 'GC';
-							}
-							if (data.tuesday.h4.platform == 'Classroom') {
-								document.getElementById('b4').innerText = 'GC';
-							}
-							if (data.tuesday.h5.platform == 'Classroom') {
-								document.getElementById('b5').innerText = 'GC';
-							}
+
+							document.getElementById('b1').innerText = data.tuesday.h1.platform
+							document.getElementById('b2').innerText = data.tuesday.h2.platform
+							document.getElementById('b3').innerText = data.tuesday.h3.platform
+							document.getElementById('b4').innerText = data.tuesday.h4.platform
+							document.getElementById('b5').innerText = data.tuesday.h5.platform
+
 							break;
 						case 3: document.getElementById('todaySub1').innerText = data.wednessday.h1.fullname;
 							document.getElementById('todaytech1').innerText = data.wednessday.h1.teacher;
@@ -385,21 +352,13 @@
 							document.getElementById('todaySub5').innerText = data.wednessday.h5.fullname;
 							document.getElementById('todaytech5').innerText = data.wednessday.h5.teacher;
 							document.getElementById('todayLink5').setAttribute("href", data.wednessday.h5.link);
-							if (data.wednessday.h1.platform == 'Classroom') {
-								document.getElementById('b1').innerText = 'GC';
-							}
-							if (data.wednessday.h2.platform == 'Classroom') {
-								document.getElementById('b2').innerText = 'GC';
-							}
-							if (data.wednessday.h3.platform == 'Classroom') {
-								document.getElementById('b3').innerText = 'GC';
-							}
-							if (data.wednessday.h4.platform == 'Classroom') {
-								document.getElementById('b4').innerText = 'GC';
-							}
-							if (data.wednessday.h5.platform == 'Classroom') {
-								document.getElementById('b5').innerText = 'GC';
-							}
+
+							document.getElementById('b1').innerText = data.wednessday.h1.platform
+							document.getElementById('b2').innerText = data.wednessday.h2.platform
+							document.getElementById('b3').innerText = data.wednessday.h3.platform
+							document.getElementById('b4').innerText = data.wednessday.h4.platform
+							document.getElementById('b5').innerText = data.wednessday.h5.platform
+
 							break;
 						case 4: document.getElementById('todaySub1').innerText = data.thursday.h1.fullname;
 							document.getElementById('todaytech1').innerText = data.thursday.h1.teacher;
@@ -416,21 +375,13 @@
 							document.getElementById('todaySub5').innerText = data.thursday.h5.fullname;
 							document.getElementById('todaytech5').innerText = data.thursday.h5.teacher;
 							document.getElementById('todayLink5').setAttribute("href", data.thursday.h5.link);
-							if (data.thursday.h1.platform == 'Classroom') {
-								document.getElementById('b1').innerText = 'GC';
-							}
-							if (data.thursday.h2.platform == 'Classroom') {
-								document.getElementById('b2').innerText = 'GC';
-							}
-							if (data.thursday.h3.platform == 'Classroom') {
-								document.getElementById('b3').innerText = 'GC';
-							}
-							if (data.thursday.h4.platform == 'Classroom') {
-								document.getElementById('b4').innerText = 'GC';
-							}
-							if (data.thursday.h5.platform == 'Classroom') {
-								document.getElementById('b5').innerText = 'GC';
-							}
+
+							document.getElementById('b1').innerText = data.thursday.h1.platform
+							document.getElementById('b2').innerText = data.thursday.h2.platform
+							document.getElementById('b3').innerText = data.thursday.h3.platform
+							document.getElementById('b4').innerText = data.thursday.h4.platform
+							document.getElementById('b5').innerText = data.thursday.h5.platform
+
 							break;
 						case 5: document.getElementById('todaySub1').innerText = data.friday.h1.fullname;
 							document.getElementById('todaytech1').innerText = data.friday.h1.teacher;
@@ -447,21 +398,13 @@
 							document.getElementById('todaySub5').innerText = data.friday.h5.fullname;
 							document.getElementById('todaytech5').innerText = data.friday.h5.teacher;
 							document.getElementById('todayLink5').setAttribute("href", data.friday.h5.link);
-							if (data.friday.h1.platform == 'Classroom') {
-								document.getElementById('b1').innerText = 'GC';
-							}
-							if (data.friday.h2.platform == 'Classroom') {
-								document.getElementById('b2').innerText = 'GC';
-							}
-							if (data.friday.h3.platform == 'Classroom') {
-								document.getElementById('b3').innerText = 'GC';
-							}
-							if (data.friday.h4.platform == 'Classroom') {
-								document.getElementById('b4').innerText = 'GC';
-							}
-							if (data.friday.h5.platform == 'Classroom') {
-								document.getElementById('b5').innerText = 'GC';
-							}
+
+							document.getElementById('b1').innerText = data.friday.h1.platform
+							document.getElementById('b2').innerText = data.friday.h2.platform
+							document.getElementById('b3').innerText = data.friday.h3.platform
+							document.getElementById('b4').innerText = data.friday.h4.platform
+							document.getElementById('b5').innerText = data.friday.h5.platform
+
 							break;
 					}
 
@@ -553,7 +496,7 @@
 			let year = u.slice(u.search('year') + 5, u.search('year') + 7);
 			console.log('year : ' + year);
 
-			url = 'https://shadowelite.me/e-timetable/data/' + classname + year + '.json';
+			url = './data/' + classname + year + '.json';
 			console.log(url);
 			if ((classname == 'bcs') && (year == '1')) {
 				document.getElementById('classname').innerText = 'BSc CS - 1';
