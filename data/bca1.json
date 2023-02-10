@@ -2,190 +2,190 @@
     "monday": 
     {
         "h1":{
-            "fullname":"English - Functional Grammar",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
-            "teacher":"Dr. Umar Farooq M C",
-            "platform":"CLASS 902",
+            "teacher":"Dr. Najda A",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h2":{
-            "fullname":"Computer Fundamentals And HTML",
-            "shortname":"CFH",
+            "fullname":"Problem Solving Using C",
+            "shortname":"PSC",
             "teacher":"Mr. Abdul Samad C",
-            "platform":"LAB 907",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"CLASS 908",
+            "platform":"LANG",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"English - Litmosphere",
+            "fullname":"English - Zeitgeist",
             "shortname":"ENG",
-            "teacher":"Dr. Najda A",
-            "platform":"CLASS 909",
+            "teacher":"Dr. Umar Farooq MC",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h5":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Ms. Sneha N P",
-            "platform":"CLASS 910",
+            "fullname":"Operations Research",
+            "shortname":"OR",
+            "teacher":"Ms. Sneha NP",
+            "platform":"ROOM S406",
             "link":"#"
         }
     },
     "tuesday": 
     {
         "h1":{
-            "fullname":"English - Functional Grammar",
+            "fullname":"English - Zeitgeist",
             "shortname":"ENG",
-            "teacher":"Dr. Umar Farooq M C",
-            "platform":"Classroom",
+            "teacher":"Dr. Umar Farooq MC",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h2":{
-            "fullname":"Mathematical Foundation .....",
-            "shortname":"MFCA",
-            "teacher":"Ms. Lulu Farsana C O",
-            "platform":"Classroom",
+            "fullname":"Financial and Management ...",
+            "shortname":"FMA",
+            "teacher":"Mr. Faheem PN",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Classroom",
+            "platform":"ROOM S406",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"English - Litmosphere",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
             "teacher":"Dr. Najda A",
-            "platform":"Classroom",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h5":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Ms. Sneha N P",
-            "platform":"Classroom",
+            "fullname":"Operations Research",
+            "shortname":"OR",
+            "teacher":"Ms. Sneha NP",
+            "platform":"ROOM S406",
             "link":"#"
         }
     },
     "wednessday": 
     {
         "h1":{
-            "fullname":"Computer Fundamentals....",
-            "shortname":"MFCA",
-            "teacher":"Ms. Faseela V",
-            "platform":"Classroom",
+            "fullname":"Financial and Management ...",
+            "shortname":"FMA",
+            "teacher":"Mr. Faheem PN",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h2":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
+            "fullname":"Operations Research",
+            "shortname":"OR",
             "teacher":"Mr. Sneha N P",
-            "platform":"Classroom",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Classroom",
+            "platform":"ROOM S406",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"English - Functional Grammar",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
-            "teacher":"Dr. Umar Farooq M C",
-            "platform":"Classroom",
+            "teacher":"Dr. Najda A",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h5":{
-            "fullname":"English - Litmosphere",
+            "fullname":"English - Zeitgeist",
             "shortname":"ENG",
-            "teacher":"Dr. Najda A",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNzYxODk2?cjc=iyxm4ld"
+            "teacher":"Dr. Umar Farooq MC",
+            "platform":"ROOM S406",
+            "link":"#"
         }
     },
     "thursday": 
     {
         "h1":{
-            "fullname":"Mathematical Foundation .......",
-            "shortname":"MFCA",
-            "teacher":"Mr. Faseela V",
-            "platform":"Classroom",
+            "fullname":"Financial and Management ...",
+            "shortname":"FMA",
+            "teacher":"Mr. Faheem PN",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h2":{
-            "fullname":"Computer",
+            "fullname":"C Programming",
             "shortname":"LAB",
             "teacher":"Mr. Abdul Samad C",
-            "platform":"Classroom",
+            "platform":"ROOM S314",
             "link":"#"
         },
         "h3":{
-            "fullname":"English - Litmosphere",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
-            "teacher":"Dr. Najda K P",
-            "platform":"Classroom",
+            "teacher":"Dr. Umar Farooq MC",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h4":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Classroom",
+            "platform":"LANG",
             "link":"#lang"
         },
         "h5":{
-            "fullname":"English - Functional Grammar",
+            "fullname":"English - Zeitgeist",
             "shortname":"ENG",
-            "teacher":"Dr. Umar Farooq M C",
-            "platform":"Classroom",
+            "teacher":"Dr. Najda A",
+            "platform":"ROOM S406",
             "link":"#"
         }
     },
     "friday": 
     {
         "h1":{
-            "fullname":"Mathematical Foundation .......",
-            "shortname":"MFCA",
-            "teacher":"Mr. Faseela V",
-            "platform":"Classroom",
+            "fullname":"Financial Management Accounting",
+            "shortname":"FMA",
+            "teacher":"Mr. Faheem PN",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h2":{
-            "fullname":"Computer",
+            "fullname":"C Programming",
             "shortname":"LAB",
             "teacher":"Mr. Abdul Samad C",
-            "platform":"Classroom",
+            "platform":"ROOM S314",
             "link":"#"
         },
         "h3":{
-            "fullname":"Computer",
+            "fullname":"C Programming",
             "shortname":"LAB",
             "teacher":"Mr. Abdul Samad C",
-            "platform":"Classroom",
+            "platform":"ROOM S314",
             "link":"#"
         },
         "h4":{
-            "fullname":"Discrete Mathematics",
-            "shortname":"DM",
-            "teacher":"Ms. Sneha N P",
-            "platform":"Classroom",
+            "fullname":"Operations Research",
+            "shortname":"OR",
+            "teacher":"Ms. Sneha NP",
+            "platform":"ROOM S406",
             "link":"#"
         },
         "h5":{
-            "fullname":"English - Functional Grammar",
+            "fullname":"English - Zeitgeist",
             "shortname":"ENG",
             "teacher":"Ms. Nuria",
-            "platform":"Classroom",
+            "platform":"ROOM S406",
             "link":"#"
         }
     },
