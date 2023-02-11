@@ -2,115 +2,115 @@
     "monday": 
     {
         "h1":{
-            "fullname":"Android Programming",
-            "shortname":"AND",
-            "teacher":"Divya",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
-        },
-        "h2":{
-            "fullname":"Operating System",
-            "shortname":"OS",
-            "teacher":"Manju S Thomson ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
-        },
-        "h3":{
-            "fullname":"Software Testing",
-            "shortname":"ST",
-            "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTU1NTg1?cjc=ykfk5ly"
-        },
-        "h4":{
-            "fullname":"Project",
-            "shortname":"PRO",
-            "teacher":"Mansoor",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNDUzMTgz?cjc=ghmxi3z"
-        },
-        "h5":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Haneesh K P",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjExODU0MzIx?cjc=3jkya72"
+            "teacher":"Divya",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h2":{
+            "fullname":"Android Programming",
+            "shortname":"AND",
+            "teacher":"Manju S Thomson ",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h3":{
+            "fullname":"Android Programming",
+            "shortname":"AND",
+            "teacher":"Alka Mohan",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h4":{
+            "fullname":"Operating Systems",
+            "shortname":"OS",
+            "teacher":"Mansoor",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h5":{
+            "fullname":"Software Testing",
+            "shortname":"ST",
+            "teacher":"HanPROsh K P",
+            "platform":"ROOM S404",
+            "link":"#"
         }
     },
     "tuesday": 
     {
         "h1":{
-            "fullname":"Computer Networks",
-            "shortname":"CN",
-            "teacher":"Haneesh K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "fullname":"Software Testing",
+            "shortname":"ST",
+            "teacher":"HanPROsh K P",
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h2":{
-            "fullname":"Operating System",
+            "fullname":"Operating Systems",
             "shortname":"OS",
             "teacher":"Manju S Thomas",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h3":{
-            "fullname":"Android Programming",
-            "shortname":"AND",
+            "fullname":"Computer Networks",
+            "shortname":"CN",
             "teacher":"Divya",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNjY1MTY3?cjc=2iwa2rt"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h4":{
-            "fullname":"Operating System",
-            "shortname":"OS",
+            "fullname":"Android Programming",
+            "shortname":"AND",
             "teacher":"Manju S Thomas",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA1MzM5ODM3?cjc=fhzdops"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h5":{
             "fullname":"Project",
             "shortname":"PRO",
             "teacher":"Mansoor",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNDUzMTgz?cjc=ghmxi3z"
+            "platform":"ROOM S404",
+            "link":"#"
         }
     },
     "wednessday": 
     {
         "h1":{
-            "fullname":"Android Programming",
-            "shortname":"AND",
+            "fullname":"Computer Networks",
+            "shortname":"CN",
             "teacher":"Divya",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h2":{
             "fullname":"Software Testing",
             "shortname":"ST",
             "teacher":"Alka Mohan",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h3":{
-            "fullname":"Computer Networks",
-            "shortname":"CN",
-            "teacher":"Haneesh K P",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjExODU0MzIx?cjc=3jkya72"
+            "fullname":"Operating Systems",
+            "shortname":"OS",
+            "teacher":"HanPROsh K P",
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h4":{
-            "fullname":"Operating System",
-            "shortname":"OS",
+            "fullname":"Android Programming",
+            "shortname":"AND",
             "teacher":"Manju S Thomas",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA1MzM5ODM3?cjc=fhzdops"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h5":{
             "fullname":"Project",
             "shortname":"PRO",
             "teacher":"Mansoor",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNDUzMTgz?cjc=ghmxi3z"
+            "platform":"ROOM S404",
+            "link":"#"
         }
     },
     "thursday": 
@@ -118,75 +118,75 @@
         "h1":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Haneesh K P",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjExODU0MzIx?cjc=3jkya72"
+            "teacher":"HanPROsh K P",
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h2":{
-            "fullname":"Android Programming",
-            "shortname":"AND",
+            "fullname":"Operating Systems",
+            "shortname":"OS",
             "teacher":"Divya",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h3":{
-            "fullname":"Software Testing",
-            "shortname":"ST",
-            "teacher":"Alka Mohan",
-            "platform":"Meet",
-            "link":""
-        },
-        "h4":{
-            "fullname":"Operating System",
-            "shortname":"OS",
-            "teacher":"Manju S Thomas",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA1MzM5ODM3?cjc=fhzdops"
-        },
-        "h5":{
             "fullname":"Android Programming",
             "shortname":"AND",
+            "teacher":"Alka Mohan",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h4":{
+            "fullname":"Software Testing",
+            "shortname":"ST",
+            "teacher":"Manju S Thomas",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h5":{
+            "fullname":"Project",
+            "shortname":"PRO",
             "teacher":"Divya",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNjY1MTY3?cjc=2iwa2rt"
+            "platform":"ROOM S404",
+            "link":"#"
         }
     },
     "friday": 
     {
         "h1":{
-            "fullname":"Computer Networks",
-            "shortname":"CN",
+            "fullname":"Operating Systems",
+            "shortname":"OS",
             "teacher":"HANEESH K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h2":{
-            "fullname":"Operating System",
-            "shortname":"OS",
-            "teacher":"Manju S Thomson ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/asz-nhuu-eer"
-        },
-        "h3":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Divya",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwNjY1MTY3?cjc=2iwa2rt"
+            "teacher":"Manju S Thomson ",
+            "platform":"ROOM S404",
+            "link":"#"
         },
-        "h4":{
+        "h3":{
             "fullname":"Software Testing",
             "shortname":"ST",
+            "teacher":"Divya",
+            "platform":"ROOM S404",
+            "link":"#"
+        },
+        "h4":{
+            "fullname":"Computer Networks",
+            "shortname":"CN",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTU1NTg1?cjc=ykfk5ly"
+            "platform":"ROOM S404",
+            "link":"#"
         },
         "h5":{
-            "fullname":"Add on Course",
-            "shortname":"Add.",
+            "fullname":"Operating Systems",
+            "shortname":"OS",
             "teacher":"",
-            "platform":"Classroom",
-            "link":""
+            "platform":"ROOM S404",
+            "link":"#"
         }
     },
     "lang":{

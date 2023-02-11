@@ -2,153 +2,153 @@
     "monday": 
     {
         "h1":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
-            "teacher":"Alka Mohan",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "fullname":"Data communication ...",
+            "shortname":"DCF",
+            "teacher":"Ms. Divya MC",
+            "platform":"ROOM S405",
+            "link":""
         },
         "h2":{
-            "fullname":"Data Communications....",
-            "shortname":"DCF",
-            "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "fullname":"Microprocessors Architecture ...",
+            "shortname":"MP",
+            "teacher":"Ms. Safeena C",
+            "platform":"ROOM S405",
+            "link":""
         },
         "h3":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
             "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjIyODMzNzgwODAw?cjc=sqh6g3c"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h4":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA4NDc5NDUz?cjc=eseuxod"
+            "fullname":"E-Commerce",
+            "shortname":"ECOM",
+            "teacher":"null",
+            "platform":"ROOM S405",
+            "link":""
         },
         "h5":{
-            "fullname":"Microprocessors & Arc..",
-            "shortname":"MP",
-            "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTYyODYxMDg3?cjc=prypngb"
+            "fullname":"Database Management ...",
+            "shortname":"DBMS",
+            "teacher":"null",
+            "platform":"ROOM S405",
+            "link":""
         }
     },
     "tuesday": 
     {
         "h1":{
-            "fullname":"Database Management..",
+            "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "teacher":"null",
+            "platform":"ROOM S405",
+            "link":""
         },
         "h2":{
-            "fullname":"Microprocessors & Arc..",
-            "shortname":"MP",
-            "teacher":"Abdul Samad",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "fullname":"Data communication ...",
+            "shortname":"DCF",
+            "teacher":"Ms. Divya MC",
+            "platform":"ROOM S405",
+            "link":""
         },
         "h3":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
-            "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
-        },
-        "h4":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA4NDc5NDUz?cjc=eseuxod"
-        },
-        "h5":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
-            "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjIyODMzNzgwODAw?cjc=sqh6g3c"
+            "teacher":"Mr. Abdul Samad C",
+            "platform":"ROOM S405",
+            "link":""
+        },
+        "h4":{
+            "fullname":"E-Commerce",
+            "shortname":"ECOM",
+            "teacher":"null",
+            "platform":"ROOM S405",
+            "link":""
+        },
+        "h5":{
+            "fullname":"Microprocessors Architecture ...",
+            "shortname":"MP",
+            "teacher":"Ms. Safeena C",
+            "platform":"ROOM S405",
+            "link":""
         }
     },
     "wednessday": 
     {
         "h1":{
-            "fullname":"Data Communications....",
-            "shortname":"DCF",
-            "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
-        },
-        "h2":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
-            "teacher":"Abdul Samad",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "teacher":"Ms. Abdul Samad C",
+            "platform":"ROOM S405",
+            "link":""
         },
-        "h3":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
-        },
-        "h4":{
+        "h2":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
+            "teacher":"null",
+            "platform":"ROOM S405",
+            "link":""
+        },
+        "h3":{
+            "fullname":"Data communication ...",
+            "shortname":"DCF",
+            "teacher":"Arshad PT",
+            "platform":"ROOM S405",
+            "link":""
+        },
+        "h4":{
+            "fullname":"Database Management ...",
+            "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h5":{
-            "fullname":"Microprocessors & Arc..",
-            "shortname":"MP",
+            "fullname":"Database Management ...",
+            "shortname":"DBMS",
             "teacher":"Manju S Thomas",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTYyODYxMDg3?cjc=prypngb"
+            "platform":"ROOM S405",
+            "link":""
         }
     },
     "thursday": 
     {
         "h1":{
-            "fullname":"Microprocessors & Arc..",
+            "fullname":"Microprocessors Architecture ...",
             "shortname":"MP",
             "teacher":"Manju S Thomas",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h2":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
+            "fullname":"Database Management ...",
+            "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h3":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
             "teacher":"Abdul Samad",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h4":{
-            "fullname":"Database Management..",
-            "shortname":"DBMS",
-            "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA4NDc5NDUz?cjc=eseuxod"
-        },
-        "h5":{
-            "fullname":"Data Communications....",
+            "fullname":"Data communication ...",
             "shortname":"DCF",
             "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTg5Njc4ODgw?cjc=76tjoal"
+            "platform":"ROOM S405",
+            "link":""
+        },
+        "h5":{
+            "fullname":"E-Commerce",
+            "shortname":"ECOM",
+            "teacher":"Arshad PT",
+            "platform":"ROOM S405",
+            "link":""
         }
     },
     "friday": 
@@ -157,36 +157,36 @@
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h2":{
-            "fullname":"Add-On",
-            "shortname":"Add.",
-            "teacher":"",
-            "platform":"",
+            "fullname":"Microprocessors Architecture ...",
+            "shortname":"MP",
+            "teacher":"Abdul Samad",
+            "platform":"ROOM S405",
             "link":""
         },
         "h3":{
-            "fullname":"Data Communications....",
-            "shortname":"DCF",
+            "fullname":"E-Commerce",
+            "shortname":"ECOM",
             "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTg5Njc4ODgw?cjc=76tjoal"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h4":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
             "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjIyODMzNzgwODAw?cjc=sqh6g3c"
+            "platform":"ROOM S405",
+            "link":""
         },
         "h5":{
-            "fullname":"E-Commerce",
-            "shortname":"ECOM",
+            "fullname":"Database Management ...",
+            "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTk0MjQ3NjU0?cjc=yil5xw3"
+            "platform":"ROOM S405",
+            "link":""
         }
     },
     "lang":{

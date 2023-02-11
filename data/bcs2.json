@@ -5,36 +5,36 @@
             "fullname":"Statistics",
             "shortname":"STATI",
             "teacher":"Nazreen Moosa",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h2":{
             "fullname":"Data Communications..",
             "shortname":"DCF",
             "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"S405",
+            "link":"#"
         },
         "h3":{
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana C.O",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwMjM3NzEx?cjc=ntjske6"
+            "platform":"S405",
+            "link":""
         },
         "h4":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA3Mzg3NTg0?cjc=qttb4gg"
+            "platform":"S405",
+            "link":"#"
         },
         "h5":{
             "fullname":"Microprocessors & Arc..",
             "shortname":"MP",
             "teacher":"Abdul Samad",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTYyODYxMDg3?cjc=prypngb"
+            "platform":"S405",
+            "link":"#"
         }
     },
     "tuesday": 
@@ -43,36 +43,36 @@
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h2":{
             "fullname":"Microprocessors & Arc..",
             "shortname":"MP",
             "teacher":"Abdul Samad",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"S405",
+            "link":"#"
         },
         "h3":{
             "fullname":"Statistics",
             "shortname":"STATI",
             "teacher":"Nazreen Moosa",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTc2MTk4?cjc=szi5ue3"
+            "platform":"S405",
+            "link":"#"
         },
         "h4":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA3Mzg3NTg0?cjc=qttb4gg"
+            "platform":"S405",
+            "link":"#"
         },
         "h5":{
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana C.O",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwMjM3NzEx?cjc=ntjske6"
+            "platform":"S405",
+            "link":"#"
         }
     },
     "wednessday": 
@@ -81,36 +81,36 @@
             "fullname":"Data Communications..",
             "shortname":"DCF",
             "teacher":"Arshad PT",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"S405",
+            "link":"#"
         },
         "h2":{
             "fullname":"Statistics",
             "shortname":"STATI",
             "teacher":"Nazreen Moosa",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h3":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h4":{
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana C.O",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjEwMjM3NzEx?cjc=ntjske6"
+            "platform":"S405",
+            "link":"#"
         },
         "h5":{
             "fullname":"Microprocessors & Arc..",
             "shortname":"MP",
             "teacher":"Manju S Thomas",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTYyODYxMDg3?cjc=prypngb"
+            "platform":"S405",
+            "link":"#"
         }
     },
     "thursday": 
@@ -119,36 +119,36 @@
             "fullname":"Microprocessors & Arc..",
             "shortname":"MP",
             "teacher":"Manju S Thomas",
-            "platform":"Meet",
-            "link":"https://meet.google.com/job-itmm-tcq"
+            "platform":"S405",
+            "link":"#"
         },
         "h2":{
             "fullname":"Statistics",
             "shortname":"STATI",
             "teacher":"Nazreen Moosa",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTc2MTk4?cjc=szi5ue3"
+            "platform":"S405",
+            "link":"#"
         },
         "h3":{
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana C.O",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h4":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA3Mzg3NTg0?cjc=qttb4gg"
+            "platform":"S405",
+            "link":"#"
         },
         "h5":{
             "fullname":"Data Communications..",
             "shortname":"DCF",
             "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTg5Njc4ODgw?cjc=76tjoal"
+            "platform":"S405",
+            "link":"#"
         }
     },
     "friday": 
@@ -157,29 +157,29 @@
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana C.O",
-            "platform":"Meet",
-            "link":"https://meet.google.com/ofc-nbfn-gth"
+            "platform":"S405",
+            "link":"#"
         },
         "h2":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
             "teacher":"Alka Mohan",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA3Mzg3NTg0?cjc=qttb4gg"
+            "platform":"S405",
+            "link":"#"
         },
         "h3":{
             "fullname":"Data Communications..",
             "shortname":"DCF",
             "teacher":"Arshad PT",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTg5Njc4ODgw?cjc=76tjoal"
+            "platform":"S405",
+            "link":"#"
         },
         "h4":{
             "fullname":"Statistics",
             "shortname":"STATI",
             "teacher":"Nazreen Moosa",
-            "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTc2MTk4?cjc=szi5ue3"
+            "platform":"S405",
+            "link":"#"
         },
         "h5":{
             "fullname":"Add On",
