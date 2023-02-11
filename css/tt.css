@@ -76,14 +76,14 @@ body {
 	width: 105px;
 	font-size: 14px;
 	font-weight: 500;
-	background-color: #5664FC;
-	color: white;
+	background-color: white;
+	color: green;
 	border: 2px solid black;
 }
 
 /* for active hour */
 .ac {
-	background-color: #FC7D7D;
+	background-color: green;
 	color: white;
 	border-bottom: 2px solid black;
 }
