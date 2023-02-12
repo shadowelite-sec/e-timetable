@@ -18,21 +18,21 @@
         "h3":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
-            "teacher":"Abdul Samad",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"ROOM S405",
             "link":""
         },
         "h4":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
-            "teacher":"null",
+            "teacher":"Ms. Safa Hanan CK",
             "platform":"ROOM S405",
             "link":""
         },
         "h5":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"null",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S405",
             "link":""
         }
@@ -42,7 +42,7 @@
         "h1":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"null",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S405",
             "link":""
         },
@@ -63,7 +63,7 @@
         "h4":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
-            "teacher":"null",
+            "teacher":"Ms. Safa Hanan CK",
             "platform":"ROOM S405",
             "link":""
         },
@@ -87,28 +87,28 @@
         "h2":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
-            "teacher":"null",
+            "teacher":"Ms. Safa Hanan CK",
             "platform":"ROOM S405",
             "link":""
         },
         "h3":{
             "fullname":"Data communication ...",
             "shortname":"DCF",
-            "teacher":"Arshad PT",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S405",
             "link":""
         },
         "h4":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"Alka Mohan",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"ROOM S405",
             "link":""
         },
         "h5":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"Manju S Thomas",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"ROOM S405",
             "link":""
         }
@@ -118,35 +118,35 @@
         "h1":{
             "fullname":"Microprocessors Architecture ...",
             "shortname":"MP",
-            "teacher":"Manju S Thomas",
+            "teacher":"Ms. Safeena C  ",
             "platform":"ROOM S405",
             "link":""
         },
         "h2":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"Alka Mohan",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S405",
             "link":""
         },
         "h3":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
-            "teacher":"Abdul Samad",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"ROOM S405",
             "link":""
         },
         "h4":{
             "fullname":"Data communication ...",
             "shortname":"DCF",
-            "teacher":"Arshad PT",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S405",
             "link":""
         },
         "h5":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
-            "teacher":"Arshad PT",
+            "teacher":"Ms. Safa Hanan CK",
             "platform":"ROOM S405",
             "link":""
         }
@@ -156,35 +156,35 @@
         "h1":{
             "fullname":"Database Management..",
             "shortname":"DBMS",
-            "teacher":"Arshad PT",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S405",
             "link":""
         },
         "h2":{
             "fullname":"Microprocessors Architecture ...",
             "shortname":"MP",
-            "teacher":"Abdul Samad",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S405",
             "link":""
         },
         "h3":{
             "fullname":"E-Commerce",
             "shortname":"ECOM",
-            "teacher":"Arshad PT",
+            "teacher":"Ms. Safa Hanan CK",
             "platform":"ROOM S405",
             "link":""
         },
         "h4":{
             "fullname":"Computer Graphics",
             "shortname":"CG",
-            "teacher":"Abdul Samad",
+            "teacher":"Mr. Abdul Samad C",
             "platform":"ROOM S405",
             "link":""
         },
         "h5":{
             "fullname":"Database Management ...",
             "shortname":"DBMS",
-            "teacher":"Alka Mohan",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S405",
             "link":""
         }

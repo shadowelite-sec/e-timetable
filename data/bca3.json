@@ -4,35 +4,35 @@
         "h1":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Divya",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h2":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Manju S Thomson ",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h3":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Alka Mohan",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h4":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"Mansoor",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h5":{
             "fullname":"Software Testing",
             "shortname":"ST",
-            "teacher":"HanPROsh K P",
+            "teacher":"Mr. Arshad PT",
             "platform":"ROOM S404",
             "link":"#"
         }
@@ -42,35 +42,35 @@
         "h1":{
             "fullname":"Software Testing",
             "shortname":"ST",
-            "teacher":"HanPROsh K P",
+            "teacher":"Mr. Arshad PT",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h2":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"Manju S Thomas",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h3":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Divya",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h4":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Manju S Thomas",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
-        "h5":{
+        "h5":{``
             "fullname":"Project",
             "shortname":"PRO",
-            "teacher":"Mansoor",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         }
@@ -80,35 +80,35 @@
         "h1":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Divya",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h2":{
             "fullname":"Software Testing",
             "shortname":"ST",
-            "teacher":"Alka Mohan",
+            "teacher":"Mr. Arshad PT",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h3":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"HanPROsh K P",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h4":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Manju S Thomas",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h5":{
             "fullname":"Project",
             "shortname":"PRO",
-            "teacher":"Mansoor",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         }
@@ -118,35 +118,35 @@
         "h1":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"HanPROsh K P",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h2":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"Divya",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h3":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Alka Mohan",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h4":{
             "fullname":"Software Testing",
             "shortname":"ST",
-            "teacher":"Manju S Thomas",
+            "teacher":"Mr. Arshad PT",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h5":{
             "fullname":"Project",
             "shortname":"PRO",
-            "teacher":"Divya",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         }
@@ -156,35 +156,35 @@
         "h1":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"HANEESH K P",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h2":{
             "fullname":"Android Programming",
             "shortname":"AND",
-            "teacher":"Manju S Thomson ",
+            "teacher":"Ms. Divya MC",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h3":{
             "fullname":"Software Testing",
             "shortname":"ST",
-            "teacher":"Divya",
+            "teacher":"Mr. Arshad PT",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h4":{
             "fullname":"Computer Networks",
             "shortname":"CN",
-            "teacher":"Alka Mohan",
+            "teacher":"Mr. Haneesh KP",
             "platform":"ROOM S404",
             "link":"#"
         },
         "h5":{
             "fullname":"Operating Systems",
             "shortname":"OS",
-            "teacher":"",
+            "teacher":"Ms. Safeena C",
             "platform":"ROOM S404",
             "link":"#"
         }
