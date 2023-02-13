@@ -2,56 +2,56 @@
     "monday": 
     {
         "h1":{
-            "fullname":"Statistics",
-            "shortname":"STAT",
+            "fullname":"English - Zeitgeist",
+            "shortname":"ENG",
             "teacher":"Radhika",
-            "platform":"Meet",
-            "link":"https://meet.google.com/vhj-gfjt-wze"
+            "platform":"MMATHt",
+            "link":""
         },
         "h2":{
-            "fullname":"Computer Fundamentals..",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"Probability",
+            "shortname":"PT",
+            "teacher":"HanMATHsh K P",
+            "platform":"MMATHt",
+            "link":""
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Meet",
+            "platform":"MMATHt",
             "link": "#lang"   
         },
         "h4":{
-            "fullname":"Mathematics",
-            "shortname":"MAT",
+            "fullname":"English - Writing for Academic ...",
+            "shortname":"ENG",
             "teacher":"Lulu Farsana",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNjU1OTg4?cjc=azcjt5f"
+            "link":""
         },
         "h5":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
+            "fullname":"Problem Solving Using C",
+            "shortname":"PSC",
             "teacher":" ",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTc5NTcyNjc3?cjc=pzzx3em"
+            "link":""
         }
     },
     "tuesday": 
     {
         "h1":{
-            "fullname":"Mathematics",
-            "shortname":"MAT",
+            "fullname":"English - Zeitgeist",
+            "shortname":"ENG",
             "teacher":"Lulu Farsana",
-            "platform":"Meet",
-            "link":"https://meet.google.com/vhj-gfjt-wze"
+            "platform":"MMATHt",
+            "link":""
         },
         "h2":{
-            "fullname":"English - Transactions",
-            "shortname":"ENG",
+            "fullname":"Problem Solving Using C",
+            "shortname":"PSC",
             "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "platform":"MMATHt",
+            "link":""
         },
         "h3":{
             "fullname":"Second Language",
@@ -61,80 +61,80 @@
             "link":"#lang"
         },
         "h4":{
-            "fullname":"Computer Fundamentals..",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
+            "fullname":"English - Writing for Academic ...",
+            "shortname":"ENG",
+            "teacher":"HanMATHsh K P",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTcyNjMyOTA3?cjc=j4caoac"
+            "link":""
         },
         "h5":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
+            "fullname":"Mathematics",
+            "shortname":"MATH",
             "teacher":" ",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTc5NTcyNjc3?cjc=pzzx3em"
+            "link":""
         }
     },
     "wednessday": 
     {
         "h1":{
-            "fullname":"Computer Fundamentals..",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "fullname":"English - Zeitgeist",
+            "shortname":"ENG",
+            "teacher":"HanMATHsh K P",
+            "platform":"MMATHt",
+            "link":""
         },
         "h2":{
-             "fullname":"Statistics",
-            "shortname":"STAT",
+             "fullname":"Probability",
+            "shortname":"PT",
             "teacher":"Radhika",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTc2MTk4?cjc=szi5ue3"
+            "link":""
         },
         "h3":{
             "fullname":"Second Language",
             "shortname":"LANG",
             "teacher":"Malayalam , Arabic , Hindi",
-            "platform":"Meet",
+            "platform":"MMATHt",
             "link":"#lang"
         },
         "h4":{
-            "fullname":"English - Ways with Words",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
             "teacher":" ",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTc5NTcyNjc3?cjc=pzzx3em"
+            "link":""
         },
         "h5":{
-            "fullname":"English - Transactions",
-            "shortname":"ENG",
+            "fullname":"Mathematics",
+            "shortname":"MATH",
             "teacher":" ",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNzYxODk2?cjc=iyxm4ld"
+            "link":""
         }
     },
     "thursday": 
     {
         "h1":{
-            "fullname":"Statistics",
-            "shortname":"STAT",
+            "fullname":"Problem Solving Using C",
+            "shortname":"PSC",
             "teacher":"Radhika",
-            "platform":"Meet",
-            "link":"https://meet.google.com/vhj-gfjt-wze"
+            "platform":"MMATHt",
+            "link":""
         },
         "h2":{
-            "fullname":"Mathematics",
-            "shortname":"MAT",
+            "fullname":"English - Zeitgeist",
+            "shortname":"ENG",
             "teacher":"Lulu Farsana",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNjU1OTg4?cjc=azcjt5f"
+            "link":""
         },
         "h3":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
+            "fullname":"Mathematics",
+            "shortname":"MATH",
             "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "platform":"MMATHt",
+            "link":""
         },
         "h4":{
             "fullname":"Second Language",
@@ -144,49 +144,49 @@
             "link":"#lang"
         },
         "h5":{
-            "fullname":"English - Transactions",
+            "fullname":"English - Writing for Academic ...",
             "shortname":"ENG",
             "teacher":" ",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNzYxODk2?cjc=iyxm4ld"
+            "link":""
         }
     },
     "friday": 
     {
         "h1":{
-            "fullname":"English - Transactions",
-            "shortname":"ENG",
+            "fullname":"Probability",
+            "shortname":"PT",
             "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "platform":"MMATHt",
+            "link":""
         },
         "h2":{
             "fullname":"Mathematics",
             "shortname":"MAT",
             "teacher":"Lulu Farsana",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTgyNjU1OTg4?cjc=azcjt5f"
+            "link":""
         },
         "h3":{
-            "fullname":"English - Ways with Words",
-            "shortname":"ENG",
+            "fullname":"Probability",
+            "shortname":"PT",
             "teacher":" ",
-            "platform":"Meet",
-            "link":"https://meet.google.com/qmx-vgqb-etg"
+            "platform":"MMATHt",
+            "link":""
         },
         "h4":{
-            "fullname":"Computer Fundamentals..",
-            "shortname":"FCH",
-            "teacher":"Haneesh K P",
+            "fullname":"English - Zeitgeist",
+            "shortname":"ENG",
+            "teacher":"HanMATHsh K P",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMTcyNjMyOTA3?cjc=j4caoac"
+            "link":""
         },
         "h5":{
-            "fullname":"Statistics",
-            "shortname":"STAT",
+            "fullname":"Problem Solving Using C",
+            "shortname":"PSC",
             "teacher":"Radhika",
             "platform":"Classroom",
-            "link":"https://classroom.google.com/c/MjMwMjA5OTc2MTk4?cjc=szi5ue3"
+            "link":""
         }
     },
     "lang":{
